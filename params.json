@@ -1,0 +1,6 @@
+{
+  "name": "Sparktestapp",
+  "tagline": "Run your first spark job locally",
+  "body": "## Debug Local Spark Job (Scala) - sbt build\r\n\r\nIntroduction\r\n------------\r\n\r\n\"Spark is a fast and general cluster computing system for Big Data. It provides\r\nhigh-level APIs in Scala, Java, Python, and R, and an optimized engine that\r\nsupports general computation graphs for data analysis. It also supports a\r\nrich set of higher-level tools including Spark SQL for SQL and DataFrames,\r\nMLlib for machine learning, GraphX for graph processing,\r\nand Spark Streaming for stream processing.\" <http://spark.apache.org/>\r\n\r\nThis project allows to write Spark jobs and debug locally.\r\n\r\n## Building This Project\r\n\r\nUse sbt package to build the project and import dependencies using local maven installation.\r\n\r\n## Running\r\n\r\nRun SparkApp using an input file (e.g. sample_data.txt)\r\n\r\nThe output is number of words with length greater than three in the file.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
